@@ -1,6 +1,6 @@
 {
   "homepage": "https://bue221.github.io/recipes-app",
-  "name": "netflix-clone",
+  "name": "recipes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
